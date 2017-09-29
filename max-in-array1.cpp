@@ -17,7 +17,7 @@ int main()
 			}
 		}
 
-		int max = -65000;
+		int max = -2147483647;
 
 		if (!failure) {
 			for (int i = 0; i < 10; ++i) {
